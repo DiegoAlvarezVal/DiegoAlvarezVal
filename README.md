@@ -10,7 +10,7 @@
   &nbsp;&nbsp;
   <a href="mailto:diegoalvarezval@gmail.com"> <img alt="Mail" src="https://img.shields.io/badge/diegoalvarezval%40gmail.com-gmail?style=flat&logo=gmail&logoColor=ffb5b5&color=c43939" style="height:22px;"> </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/diego_avzz"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-instagram?style=flat&logo=instagram&logoColor=f0d246&color=bb26b9" style="height:22px;"> </a>
+  <a href="https://www.instagram.com/diegoavz_piano"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-instagram?style=flat&logo=instagram&logoColor=f0d246&color=bb26b9" style="height:22px;"> </a>
 </p>
 
 ## About Me
