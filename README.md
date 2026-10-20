@@ -20,7 +20,7 @@
 - 🧩 Focused on clean architecture, reusable systems, and optimization
 - ✨ Passionate about shader creation, material workflows, and texture management
 - 🧠 Interested in procedural & physical animation, procedural generation, AI scripting, and performance techniques
-- 💎 Currently learning C++ and HLSL
+- 💎 Always learning
 
 ## My Favorite Tools
 ### 👨‍💻 Programming
